@@ -13,6 +13,7 @@ body {
     justify-content: center;
     align-items: center;
     background-image: url("https://comicvine1.cbsistatic.com/uploads/original/11/117787/4457228-1136382173-pixie.jpg");
+    background-size:cover;
 }
 
 .stack-container {
